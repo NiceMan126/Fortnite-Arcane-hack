@@ -1,4 +1,4 @@
-# Fortnite-Arcane-hack
+# Fortnite-Arcane-hack **[![Download ArcaneV2](https://img.shields.io/badge/Download-ArcaneV2-blueviolet)](../../releases)**
  
 Make sure project is set on Release X64 and DirectX11 sdk is installed, give star if you guys wants car teleport
 
@@ -37,3 +37,5 @@ Added FOV Changer!
 
  - Crosshair
  - Visible Check
+
+Download**[![Download ArcaneV2](https://img.shields.io/badge/Download-ArcaneV2-blueviolet)](../../releases)**
