@@ -4,8 +4,8 @@ Make sure project is set on Release X64 and DirectX11 sdk is installed, give sta
 
 Added FOV Changer!
 
- ![ArcaneV2 Preview](/Assets/1.jpeg)
- ![ArcaneV2 Preview](/Assets/2.jpeg)
+ ![ArcaneV2 Preview](/Assets/1.jpg)
+ ![ArcaneV2 Preview](/Assets/2.jpg)
 
 ## Current features:
 
